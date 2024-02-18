@@ -10,9 +10,9 @@ Temperature Change.ipynb: This Jupyter Notebook contains the Python code and ana
 Clone this repository to your local machine. Ensure you have Python and Jupyter Notebook installed on your system. Open the Temperature Change.ipynb file using Jupyter Notebook. Follow the instructions and run the code cells to execute the analysis. Review the output, including summary tables, visualizations, and insights derived from the analysis.
 
 # Dependencies:
-Python 3.11.5
-Pandas library
-Jupyter Notebook
+- Python 3.11.5
+- Pandas library
+- Jupyter Notebook
 
 
 
