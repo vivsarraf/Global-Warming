@@ -3,12 +3,16 @@
 ![climate data](https://github.com/vivsarraf/GroupProject/assets/135401654/691477aa-1ec1-401d-808c-559977cea6af)
 
 
-
 # Overview 
-The metric showcases the average surface temperature deviation from the 1951-1980 baseline across the 1990-2021 period for 12 countries; the analysis of CO2 emission amounts from 1995-2020 based on countries of the world and different working sectors;  the Impact of Global Warming and rise of extreme weather events between 1990-2021 for the top 12 countries where mean temperature have increased significantly; SMRITI TO ADD HERE. Utilize dropdown menus to investigate temperature shifts by country. Explore temperature changes by selecting the mean surface temperature shifts relative to the 1951-1980 baseline for the period spanning 1990 to 2021 using the dropdown menus provided.
+The metric showcases the following 4 topics:
+ - The average surface temperature deviation from the 1951-1980 baseline across the 1990-2021 period for 12 countries
+ - The analysis of CO2 emission amounts from 1995-2020 based on countries of the world and different working sectors
+ - The Impact of Global Warming and rise of extreme weather events between 1990-2021 for the top 12 countries where mean temperature have increased significantly
+ - The analysis of government spending on environmental protection
 
 # Files Included:
-Temperature Change.ipynb, Climate_Change_CO2.ipynb, WeatherPatterns.ipynb, SMRITI PYTHON NAME: This Jupyter Notebook contains the Python code and analysis for the Global Warming project. It includes data loading, manipulation, calculations, and visualizations. Resources/Data.csv: CSV file containing temperature change-related data, including 12 countries such as Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Russia, the United Kingdom, and the United States. By accessing the Data Graph file, you can view the graph of all 12 countries and their temperature change series.
+Temperature Change.ipynb, Climate_Change_CO2.ipynb, WeatherPatterns.ipynb, EnvironmentProtectionExpendetures.ipynb : This Jupyter Notebook contains the Python code and analysis for the Global Warming project. It includes data loading, manipulation, calculations, and visualizations. Resources/Data.csv: CSV file containing temperature change-related data, including 12 countries such as Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Russia, the United Kingdom, and the United States.
+
 
 # How to Use:
 Clone this repository to your local machine. Ensure you have Python and Jupyter Notebook installed on your system. Open the .ipynb files using Jupyter Notebook. Follow the instructions and run the code cells to execute the analysis. Review the output, including summary tables, visualizations, and insights derived from the analysis.
