@@ -16,7 +16,6 @@ The metric showcases the following 4 topics:
  - How much do governments from all over the world spend to protect the environment from climate change?
    
  ## Data sets were obtained from the following websites:
-  - Source: https://climatedata.imf.org/datasets/b13b69ee0dde43a99c811f592af4e821_0/about
   - The Emergency Events Database (EM-DAT), Centre for Research on the Epidemiology of Disasters (CRED) / Université 
      Catholique de Louvain (UCLouvain), Brussels, Belgium 
   - EM-DAT: The Emergency Events Database - Université catholique de Louvain (UCL) - CRED, D. Guha-Sapir - www.emdat.be, 
