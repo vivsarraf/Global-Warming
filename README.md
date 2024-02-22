@@ -7,8 +7,13 @@
 The metric showcases the following 4 topics:
  - The average surface temperature deviation from the 1951-1980 baseline across the 1990-2021 period for 12 countries
  - The analysis of CO2 emission amounts from 1995-2020 based on countries of the world and different working sectors
- - The Impact of Global Warming and rise of extreme weather events between 1990-2021 for the top 12 countries where mean temperature have increased significantly
+ - The Impact of Global Warming and the rise of extreme weather events between 1990-2021 for the top 12 countries where mean temperatures have increased significantly
  - The analysis of government spending on environmental protection
+ ## Research Questions:
+ - How has the average global temperature trend changed over the past decade?
+ - What working sector is the worst for global warming based on CO2 and Greenhouse gasses emitted?
+ - What are the impacts of global warming on weather patterns, extreme weather events, and wildfires?
+ - How much does government from all over the world spend to protect the environment from climate change?
 
 # Files Included:
 Temperature Change.ipynb, Climate_Change_CO2.ipynb, WeatherPatterns.ipynb, EnvironmentProtectionExpendetures.ipynb : This Jupyter Notebook contains the Python code and analysis for the Global Warming project. It includes data loading, manipulation, calculations, and visualizations. Resources/Data.csv: CSV file containing temperature change-related data, including 12 countries such as Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Russia, the United Kingdom, and the United States.
