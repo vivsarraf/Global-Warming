@@ -24,6 +24,8 @@ Data sets were obtained from the following websites:
 Source: The Emergency Events Database (EM-DAT) , Centre for Research on the Epidemiology of Disasters (CRED) / Université catholique de Louvain (UCLouvain), Brussels, Belgium 
 EM-DAT: The Emergency Events Database - Université catholique de Louvain (UCL) - CRED, D. Guha-Sapir - www.emdat.be, Brussels, Belgium.
 Only climate related disasters (Wildfire, Storm, Landslide, Flood, Extreme Temperature, Drought, Fog, Wave Action and Glacial Lake Outburst) are covered. See the CID Glossary for the definitions.
+
+
 EM-DAT covers disasters that:
 i.          Killed ten (10) or more people 
 ii.         Affected hundred (100) or more people 
@@ -42,3 +44,4 @@ https://climatedata.imf.org/datasets/b13b69ee0dde43a99c811f592af4e821_0/about
 https://ourworldindata.org/emissions-by-sector
 https://climatedata.imf.org/datasets/b13b69ee0dde43a99c811f592af4e821_0/about
 www.emdat.be
+https://climatedata.imf.org/pages/mitigation
