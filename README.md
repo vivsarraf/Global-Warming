@@ -16,12 +16,13 @@ The metric showcases the following 4 topics:
  - How much do governments from all over the world spend to protect the environment from climate change?
    
  ## Data sets were obtained from the following websites:
-  - Source: The Emergency Events Database (EM-DAT), Centre for Research on the Epidemiology of Disasters (CRED) / Université Catholique de Louvain 
-    (UCLouvain), Brussels, Belgium 
-  - EM-DAT: The Emergency Events Database - Université catholique de Louvain (UCL) - CRED, D. Guha-Sapir - www.emdat.be, Brussels, Belgium.
-    Only climate-related disasters (Wildfire, Storm, Landslide, Flood, Extreme Temperature, Drought, Fog, Wave Action, and Glacial Lake Outburst) 
-    are covered. See the CID Glossary for the definitions.
-    
+  - Source: https://climatedata.imf.org/datasets/b13b69ee0dde43a99c811f592af4e821_0/about
+  - The Emergency Events Database (EM-DAT), Centre for Research on the Epidemiology of Disasters (CRED) / Université 
+     Catholique de Louvain (UCLouvain), Brussels, Belgium 
+  - EM-DAT: The Emergency Events Database - Université catholique de Louvain (UCL) - CRED, D. Guha-Sapir - www.emdat.be, 
+     Brussels, Belgium. Only climate-related disasters (Wildfire, Storm, Landslide, Flood, Extreme Temperature, Drought, 
+     Fog, Wave Action, and Glacial Lake Outburst) 
+        
  ## Data sets Assumptions:
  EM-DAT covers disasters that
    - Killed ten (10) or more people 
@@ -49,4 +50,4 @@ The datasets were taken from the following sources:
 - https://ourworldindata.org/emissions-by-sector
 - https://climatedata.imf.org/datasets/b13b69ee0dde43a99c811f592af4e821_0/about
 - www.emdat.be
-https://climatedata.imf.org/pages/mitigation
+- https://climatedata.imf.org/pages/mitigation
