@@ -13,21 +13,21 @@ The metric showcases the following 4 topics:
  - How has the average global temperature trend changed over the past decade?
  - What working sector is the worst for global warming based on CO2 and Greenhouse gasses emitted?
  - What are the impacts of global warming on weather patterns, extreme weather events, and wildfires?
- - How much does government from all over the world spend to protect the environment from climate change?
+ - How much do governments from all over the world spend to protect the environment from climate change?
    
  ## Data sets were obtained from the following websites:
- Source: The Emergency Events Database (EM-DAT), Centre for Research on the Epidemiology of Disasters (CRED) / Université Catholique de Louvain 
- (UCLouvain), Brussels, Belgium 
- EM-DAT: The Emergency Events Database - Université catholique de Louvain (UCL) - CRED, D. Guha-Sapir - www.emdat.be, Brussels, Belgium.
- Only climate-related disasters (Wildfire, Storm, Landslide, Flood, Extreme Temperature, Drought, Fog, Wave Action, and Glacial Lake Outburst) are 
- covered. See the CID Glossary for the definitions.
- Data sets Assumptions:
+  - Source: The Emergency Events Database (EM-DAT), Centre for Research on the Epidemiology of Disasters (CRED) / Université Catholique de Louvain 
+    (UCLouvain), Brussels, Belgium 
+  - EM-DAT: The Emergency Events Database - Université catholique de Louvain (UCL) - CRED, D. Guha-Sapir - www.emdat.be, Brussels, Belgium.
+    Only climate-related disasters (Wildfire, Storm, Landslide, Flood, Extreme Temperature, Drought, Fog, Wave Action, and Glacial Lake Outburst) 
+    are covered. See the CID Glossary for the definitions.
+    
+ ## Data sets Assumptions:
  EM-DAT covers disasters that:
-  i.   Killed ten (10) or more people 
-  ii.  Affected hundred (100) or more people 
-  iii. Led to the declaration of a state of emergency
-  iv.  Led to call for international assistance 
-
+    - Killed ten (10) or more people 
+    -  Affected hundred (100) or more people 
+    -  Led to the declaration of a state of emergency
+    -  Led to call for international assistance 
 
 # Files Included:
 Temperature Change.ipynb, Climate_Change_CO2.ipynb, WeatherPatterns.ipynb, EnvironmentProtectionExpendetures.ipynb : This Jupyter Notebook contains the Python code and analysis for the Global Warming project. It includes data loading, manipulation, calculations, and visualizations. Resources/Data.csv: CSV file containing temperature change-related data, including 12 countries such as Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Russia, the United Kingdom, and the United States.
