@@ -23,15 +23,14 @@ The metric showcases the following 4 topics:
     are covered. See the CID Glossary for the definitions.
     
  ## Data sets Assumptions:
- EM-DAT covers disasters that:
-    - Killed ten (10) or more people 
-    -  Affected hundred (100) or more people 
-    -  Led to the declaration of a state of emergency
-    -  Led to call for international assistance 
+ EM-DAT covers disasters that
+   - Killed ten (10) or more people 
+   - Affected hundred (100) or more people 
+   - Led to the declaration of a state of emergency
+   - Led to call for international assistance 
 
 # Files Included:
 Temperature Change.ipynb, Climate_Change_CO2.ipynb, WeatherPatterns.ipynb, EnvironmentProtectionExpendetures.ipynb : This Jupyter Notebook contains the Python code and analysis for the Global Warming project. It includes data loading, manipulation, calculations, and visualizations. Resources/Data.csv: CSV file containing temperature change-related data, including 12 countries such as Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Russia, the United Kingdom, and the United States.
-
 
 # How to Use:
 Clone this repository to your local machine. Ensure you have Python and Jupyter Notebook installed on your system. Open the .ipynb files using Jupyter Notebook. Follow the instructions and run the code cells to execute the analysis. Review the output, including summary tables, visualizations, and insights derived from the analysis.
@@ -43,8 +42,8 @@ Jupyter Notebook
 
 # References
 The datasets were taken from the following sources:
-https://climatedata.imf.org/datasets/b13b69ee0dde43a99c811f592af4e821_0/about
-https://ourworldindata.org/emissions-by-sector
-https://climatedata.imf.org/datasets/b13b69ee0dde43a99c811f592af4e821_0/about
-www.emdat.be
+- https://climatedata.imf.org/datasets/b13b69ee0dde43a99c811f592af4e821_0/about
+- https://ourworldindata.org/emissions-by-sector
+- https://climatedata.imf.org/datasets/b13b69ee0dde43a99c811f592af4e821_0/about
+- www.emdat.be
 https://climatedata.imf.org/pages/mitigation
