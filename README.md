@@ -15,11 +15,11 @@ The metric showcases the following 4 topics:
  - What are the impacts of global warming on weather patterns, extreme weather events, and wildfires?
  - How much do governments from all over the world spend to protect the environment from climate change?
    
- ## Data sets were obtained from the following websites:
+ ## Data sets were obtained from the following Places:
   - The Emergency Events Database (EM-DAT), Centre for Research on the Epidemiology of Disasters (CRED) / Université 
      Catholique de Louvain (UCLouvain), Brussels, Belgium 
-  - EM-DAT: The Emergency Events Database - Université catholique de Louvain (UCL) - CRED, D. Guha-Sapir - www.emdat.be, 
-     Brussels, Belgium. Only climate-related disasters (Wildfire, Storm, Landslide, Flood, Extreme Temperature, Drought, 
+  - EM-DAT: The Emergency Events Database - Université catholique de Louvain (UCL) - CRED, D. Guha-Sapir,Brussels, Belgium. Only climate-related 
+     disasters (Wildfire, Storm, Landslide, Flood, Extreme Temperature, Drought, 
      Fog, Wave Action, and Glacial Lake Outburst) 
         
  ## Data sets Assumptions:
@@ -34,6 +34,7 @@ The metric showcases the following 4 topics:
 - It includes data loading, manipulation, calculations, and visualizations.
 - Resources/Data.csv: CSV file containing temperature change-related data, including 12 countries such as Australia, Brazil, Canada, China, France, 
   Germany, India, Italy, Japan, Russia, the United Kingdom, and the United States.
+- Images folder to store all the Visualizations generated.
 
 ## How to Use:
 Clone this repository to your local machine. Ensure you have Python and Jupyter Notebook installed on your system. Open the .ipynb files using Jupyter Notebook. Follow the instructions and run the code cells to execute the analysis. Review the output, including summary tables, visualizations, and insights derived from the analysis.
