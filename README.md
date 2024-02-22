@@ -30,7 +30,10 @@ The metric showcases the following 4 topics:
    - Led to call for international assistance 
 
 # Files Included:
-Temperature Change.ipynb, Climate_Change_CO2.ipynb, WeatherPatterns.ipynb, EnvironmentProtectionExpendetures.ipynb : This Jupyter Notebook contains the Python code and analysis for the Global Warming project. It includes data loading, manipulation, calculations, and visualizations. Resources/Data.csv: CSV file containing temperature change-related data, including 12 countries such as Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Russia, the United Kingdom, and the United States.
+- Temperature Change.ipynb, Climate_Change_CO2.ipynb, WeatherPatterns.ipynb, EnvironmentProtectionExpendetures.ipynb : This Jupyter Notebook contains the Python code and analysis for the Global Warming project.
+- It includes data loading, manipulation, calculations, and visualizations.
+- Resources/Data.csv: CSV file containing temperature change-related data, including 12 countries such as Australia, Brazil, Canada, China, France, 
+  Germany, India, Italy, Japan, Russia, the United Kingdom, and the United States.
 
 # How to Use:
 Clone this repository to your local machine. Ensure you have Python and Jupyter Notebook installed on your system. Open the .ipynb files using Jupyter Notebook. Follow the instructions and run the code cells to execute the analysis. Review the output, including summary tables, visualizations, and insights derived from the analysis.
